@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://tashanad.github.io/sitemap/sitemap.txt
